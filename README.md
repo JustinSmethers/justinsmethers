@@ -1,16 +1,27 @@
-## Hi there 👋
+# Justin Smethers
 
-<!--
-**JustinSmethers/justinsmethers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analytics Data Engineer | AI Engineering**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proficient in **SQL, dbt, and Python**. Actively exploring new languages and tooling.
+
+---
+
+## Writing
+
+- [Engineering Flexibility in Semantic Layer Applications with Dynamic Granularities](https://www.brooklyndata.co/ideas/2025/12/16/engineering-flexibility-in-semantic-layer-applications)
+- [Building a new feature entirely on my phone with Codex](https://justinsmethers.com/blog/post/building-a-new-feature-entirely-on-my-phone-with-codex/)
+- [Terminal Agents Just Got Scary Good](https://justinsmethers.com/blog/post/terminal-agents-just-got-scary-goo/)
+
+---
+
+## Career direction
+
+Interested in roles at the intersection of **data engineering, developer tooling, and AI-assisted systems**.
+
+| 📦 Projects |
+| --- |
+| [🔎 havelock-in-chrome](https://github.com/JustinSmethers/havelock-in-chrome) — Chrome extension that analyzes selected text and shows a Havelock orality score using the API at [havelock.ai](https://havelock.ai). |
+| [🌐 website](https://github.com/JustinSmethers/website) — Django web application and development setup for my personal website [justinsmethers.com](https://justinsmethers.com). |
+| [📚 reader-companion](https://github.com/JustinSmethers/reader-companion) — CLI to extract PDF/EPUB files into chapter-wise UTF-8 text files for uploading to LLMs. |
+| [🛠️ dotfiles](https://github.com/JustinSmethers/dotfiles) — Cross-platform shell and developer environment configuration. |
