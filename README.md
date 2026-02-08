@@ -15,11 +15,7 @@ Proficient in **SQL, dbt, and Python**. Actively exploring new languages and too
 
 ---
 
-## Career direction
-
-Interested in roles at the intersection of **data engineering, developer tooling, and AI-assisted systems**.
-
-| 📦 Projects |
+| 📦 Selected Projects |
 | --- |
 | [🔎 havelock-in-chrome](https://github.com/JustinSmethers/havelock-in-chrome) — Chrome extension that analyzes selected text and shows a Havelock orality score using the API at [havelock.ai](https://havelock.ai). |
 | [🌐 website](https://github.com/JustinSmethers/website) — Django web application and development setup for my personal website [justinsmethers.com](https://justinsmethers.com). |
