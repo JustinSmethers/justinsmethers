@@ -10,8 +10,9 @@ Proficient in **SQL, dbt, and Python**. Actively exploring new languages and too
 ## Writing
 
 - [Engineering Flexibility in Semantic Layer Applications with Dynamic Granularities](https://www.brooklyndata.co/ideas/2025/12/16/engineering-flexibility-in-semantic-layer-applications) (Brooklyn Data Co. company blog) 
-- [Building a new feature entirely on my phone with Codex](https://justinsmethers.com/blog/post/building-a-new-feature-entirely-on-my-phone-with-codex/)
-- [Terminal Agents Just Got Scary Good](https://justinsmethers.com/blog/post/terminal-agents-just-got-scary-goo/)
+- [Building a new feature entirely on my phone with Codex](https://justinsmethers.com/blog/post/building-a-new-feature-entirely-on-my-phone-with-codex/) (personal site)
+- [Terminal Agents Just Got Scary Good](https://justinsmethers.com/blog/post/terminal-agents-just-got-scary-goo/) (personal site)
+- [justinsmethers.com](https://justinsmethers.com) for further writing
 
 ---
 
