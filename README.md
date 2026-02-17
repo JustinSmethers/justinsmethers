@@ -1,6 +1,6 @@
 # Justin Smethers
 
-**Analytics Data Engineer | AI Engineering**
+**Analytics Data Engineer**
 
 
 Proficient in **SQL, dbt, and Python**. Actively exploring new languages and tooling.
