@@ -18,7 +18,7 @@ Proficient in **SQL, dbt, and Python**. Actively exploring new languages and too
 
 | 📦 Selected Projects |
 | --- |
-| [🔎 havelock-in-chrome](https://github.com/JustinSmethers/havelock-in-chrome) — Chrome extension that analyzes selected text and shows a Havelock orality score using the API at [havelock.ai](https://havelock.ai). |
+| [🔎 havelock-in-chrome](https://github.com/JustinSmethers/havelock-in-chrome) — [Chrome extension](https://chromewebstore.google.com/detail/havelock-in-chrome/ggfpajpcpnpjkeddeedlnmmhlkkeobbd?hl=en-US&utm_source=ext_sidebar) that analyzes selected text and shows a Havelock orality score using the API at [havelock.ai](https://havelock.ai). |
 | [🌐 website](https://github.com/JustinSmethers/website) — Django web application and development setup for my personal website [justinsmethers.com](https://justinsmethers.com). |
 | [📚 reader-companion](https://github.com/JustinSmethers/reader-companion) — CLI to extract PDF/EPUB files into chapter-wise UTF-8 text files for uploading to LLMs. |
 | [🛠️ dotfiles](https://github.com/JustinSmethers/dotfiles) — Cross-platform shell and developer environment configuration. |
