@@ -3,7 +3,7 @@
 **Analytics Data Engineer**
 
 
-Proficient in **SQL, dbt, and Python**. Actively exploring new languages and tooling.
+Proficient in **Python, SQL, and dbt**. Actively exploring new languages and tooling.
 
 ---
 
